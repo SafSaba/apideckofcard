@@ -1,0 +1,725 @@
+INFO	2020-05-14 21:01:12,913	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:01:39,578	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:02:19,877	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:02:19,888	11	tests.CreateNewDeck	[main]	safdafadfafafafdafadfafd
+INFO	2020-05-14 21:02:51,875	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:02:51,885	10	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:02:52,730	855	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:25:01,283	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:25:01,292	9	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:25:02,288	1005	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:25:14,339	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:25:14,348	9	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:25:15,179	840	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:25:44,883	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:25:44,892	9	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:25:45,779	896	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:26:49,365	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:26:49,375	10	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:26:50,189	824	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:27:05,319	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:27:05,328	9	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:27:06,318	999	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 21:30:18,653	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:30:51,864	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:32:36,973	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:33:39,971	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:34:12,008	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:34:45,570	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:35:29,177	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:53:27,407	1	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 21:53:27,418	12	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-14 21:53:28,459	1053	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-14 22:31:43,910	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 22:49:28,659	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 22:52:55,503	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 22:55:23,821	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:29:49,754	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:30:08,393	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:32:24,874	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:32:54,969	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:33:14,097	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:34:55,212	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:37:09,717	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:38:37,808	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:39:05,803	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:39:32,662	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:44:36,947	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:49:40,754	1	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:50:00,174	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:52:22,876	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-14 23:53:05,795	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:06:33,828	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:06:56,762	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:07:28,309	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:08:06,053	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:08:47,322	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:09:02,702	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:13:03,204	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:18:05,263	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:18:16,540	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:24:35,765	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:25:53,965	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:28:08,914	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:30:02,698	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:30:46,179	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 00:32:25,681	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:24:05,505	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:25:45,806	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:26:58,464	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:27:09,704	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:27:19,100	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:35:28,741	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:35:49,332	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:35:57,851	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:36:07,909	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:51:11,527	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 01:51:57,495	0	tests.CreateNewDeck	[main]	before methodhttp://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:52:14,068	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:53:58,955	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:54:07,533	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:54:07,543	10	tests.CreateNewDeck	[main]	Drawing 5 cards :: 
+INFO	2020-05-15 01:54:08,352	819	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:55:07,368	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:55:08,228	860	tests.CreateNewDeck	[main]	Drawing 5 cards :: 
+INFO	2020-05-15 01:55:08,228	860	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:58:10,222	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:58:11,115	893	tests.CreateNewDeck	[main]	Drawing 5 cards :: 
+INFO	2020-05-15 01:58:11,116	894	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:59:30,970	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 01:59:31,815	845	tests.CreateNewDeck	[main]	Drawing 5 cards :: null
+INFO	2020-05-15 01:59:31,815	845	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:03:25,365	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:03:26,249	884	tests.CreateNewDeck	[main]	Drawing 5 cards :: null
+INFO	2020-05-15 02:03:26,249	884	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:04:22,422	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:04:23,326	904	tests.CreateNewDeck	[main]	Drawing 5 cards :: null
+INFO	2020-05-15 02:04:23,327	905	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:06:20,937	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:06:21,878	941	tests.CreateNewDeck	[main]	Drawing 5 cards :: io.restassured.internal.RestAssuredResponseImpl@62e70ea3
+INFO	2020-05-15 02:06:21,878	941	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:06:52,326	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:06:53,229	903	tests.CreateNewDeck	[main]	Drawing 5 cards :: null
+INFO	2020-05-15 02:06:53,229	903	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:07:11,049	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:07:11,927	878	tests.CreateNewDeck	[main]	Drawing 5 cards :: Date=Fri, 15 May 2020 06:07:11 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Set-Cookie=__cfduid=d444c52a9b14bb3c504ab8358b98abb591589522831; expires=Sun, 14-Jun-20 06:07:11 GMT; path=/; domain=.deckofcardsapi.com; HttpOnly; SameSite=Lax
+Access-Control-Allow-Origin=*
+X-Frame-Options=SAMEORIGIN
+Vary=Origin
+CF-Cache-Status=DYNAMIC
+Server=cloudflare
+CF-RAY=593aad62ba4b74bb-IAD
+Content-Encoding=gzip
+cf-request-id=02b88ab1b1000074bbed9bc200000001
+INFO	2020-05-15 02:07:11,927	878	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:10:17,446	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:10:18,348	902	tests.CreateNewDeck	[main]	deserialization JSON to pojo class Draw :: 
+INFO	2020-05-15 02:10:27,456	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:10:28,297	841	tests.CreateNewDeck	[main]	deserialization JSON to pojo class Draw :: 
+INFO	2020-05-15 02:12:59,234	0	tests.CreateNewDeck	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:13:00,095	861	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:13:38,765	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:13:39,598	833	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:22:01,718	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:23:59,020	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:29:20,079	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:29:30,718	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:30:12,347	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:31:14,664	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:31:41,943	1	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:31:49,354	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:33:07,174	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:33:38,806	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:33:39,634	828	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:33:56,333	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:33:57,423	1090	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:34:03,933	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:34:04,744	811	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:34:36,367	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:37:43,349	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:38:28,069	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:38:28,904	835	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:40:02,725	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:40:03,572	847	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:40:24,983	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:40:25,819	836	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:49:08,976	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:49:09,832	856	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:49:21,798	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:49:22,636	838	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 02:50:20,515	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 02:50:21,347	832	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 03:19:34,417	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:20:08,208	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:20:36,797	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:20:43,755	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:23:13,045	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:23:40,759	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:24:29,035	1	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:34:37,912	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 03:34:38,858	946	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 03:34:54,219	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:35:05,677	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:35:27,939	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:35:45,670	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:37:39,113	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:37:40,446	1333	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 03:37:40,545	1432	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 03:41:10,385	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:41:11,735	1350	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 03:41:11,854	1469	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 03:42:50,454	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:42:51,776	1322	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 03:42:51,892	1438	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 03:44:47,659	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 03:58:51,861	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 04:27:34,863	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 04:27:49,882	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 04:27:50,906	1024	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 04:58:41,771	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 04:58:43,098	1327	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 05:28:49,419	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:35:09,202	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:35:37,383	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:40:48,173	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:44:35,891	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:45:46,493	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:48:00,437	1	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:48:01,518	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:48:29,013	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:50:00,470	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:50:15,887	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:50:20,763	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:52:20,157	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 05:58:20,075	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:20:49,761	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 06:20:50,804	1043	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 06:21:40,759	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 06:21:41,754	995	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 06:22:21,453	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 06:22:22,690	1237	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 06:22:35,933	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 06:22:36,889	956	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 06:23:38,111	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 06:23:39,087	976	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 06:26:57,874	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:35:10,405	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:36:24,166	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:37:12,284	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:38:11,278	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:39:19,680	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:40:31,529	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:41:33,234	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:42:29,053	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:44:30,831	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:53:00,363	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:54:27,130	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:55:32,736	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:56:08,795	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:56:20,730	1	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:56:33,059	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:57:34,028	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:59:13,639	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 06:59:58,065	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:00:46,657	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:00:46,696	39	tests.CreateNewDeck	[main]	wrong name or path
+INFO	2020-05-15 07:01:08,534	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:01:08,572	38	tests.CreateNewDeck	[main]	wrong name or path
+INFO	2020-05-15 07:02:09,726	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:02:09,766	40	tests.CreateNewDeck	[main]	wrong file name or pathsrc/test/resources/new_dedck.json
+INFO	2020-05-15 07:02:28,954	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:02:28,987	33	tests.CreateNewDeck	[main]	wrong file name or path :: src/test/resources/new_dedck.json
+INFO	2020-05-15 07:02:45,090	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:11:16,771	0	tests.DrawCards	[main]	before method :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 07:11:18,005	1234	tests.DrawCards	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 07:54:19,953	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:56:30,531	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:57:34,669	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:57:36,413	1744	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 07:57:36,519	1850	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 07:58:11,837	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 07:58:39,226	0	tests.CreateNewDeck	[main]	before method
+INFO	2020-05-15 08:13:41,831	0	TestBase.BaseClass	[main]	before method
+INFO	2020-05-15 08:13:41,840	9	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:13:42,766	935	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:14:26,790	0	TestBase.BaseClass	[main]	before method
+INFO	2020-05-15 08:14:28,989	2199	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:14:29,074	2284	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:14:38,883	0	TestBase.BaseClass	[main]	before method
+INFO	2020-05-15 08:14:40,668	1785	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:14:40,746	1863	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:14:46,384	0	TestBase.BaseClass	[main]	before method
+INFO	2020-05-15 08:14:46,391	7	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:14:47,226	842	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:19:32,020	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:19:33,714	1694	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:19:33,791	1771	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:19:49,847	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:19:51,576	1729	tests.CreateNewDeck	[main]	 :: Creating deck of cards
+INFO	2020-05-15 08:19:51,645	1798	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:20:56,314	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:20:56,322	8	tests.CreateNewDeck	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 08:20:57,222	908	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:21:10,553	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:21:10,561	8	tests.CreateNewDeck	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 08:21:11,388	835	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:21:33,209	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:21:33,218	9	tests.CreateNewDeck	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 08:21:34,049	840	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:22:51,366	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:22:51,376	10	tests.CreateNewDeck	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 08:22:52,227	861	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:24:49,026	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:26:37,731	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:26:37,740	9	tests.CreateNewDeck	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 08:26:38,593	862	tests.CreateNewDeck	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 08:33:49,702	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:33:49,762	60	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 08:49:06,476	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:49:06,486	10	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 08:49:07,338	862	tests.CreateNewDeck	[main]	deserialize response into POJO CLASS
+INFO	2020-05-15 08:49:07,588	1112	tests.CreateNewDeck	[main]	Writing Body in new_deck.json file
+INFO	2020-05-15 08:49:07,588	1112	tests.CreateNewDeck	[main]	 Can not Write in the file or Wrong path
+INFO	2020-05-15 08:50:57,186	1	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:50:57,195	10	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 08:50:58,084	899	tests.CreateNewDeck	[main]	deserialize response into POJO CLASS
+INFO	2020-05-15 08:50:58,381	1196	tests.CreateNewDeck	[main]	Writing Body in new_deck.json file
+INFO	2020-05-15 08:50:58,382	1197	tests.CreateNewDeck	[main]	 Can not Write in the file or Wrong file  or directory src/test/resosurces/new_deck.json
+INFO	2020-05-15 08:59:47,331	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 08:59:47,366	35	tests.CreateNewDeck	[main]	 Reading from new_deck.json file 
+INFO	2020-05-15 08:59:47,366	35	tests.CreateNewDeck	[main]	 Serialization JSON into POJO Deck Class 
+INFO	2020-05-15 09:18:33,840	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:18:34,908	1068	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:20:21,592	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:20:22,535	943	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:28:23,492	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:28:34,252	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:28:56,411	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:30:02,854	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:30:45,401	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:31:07,858	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:31:39,895	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:32:11,622	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:32:44,921	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:33:09,781	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:39:55,175	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:41:25,732	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:43:48,003	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:43:48,015	12	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:43:48,920	917	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:44:06,344	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:44:06,353	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:44:07,181	837	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:44:47,683	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:46:33,880	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:46:33,889	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:46:34,761	881	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:46:56,827	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:46:56,836	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:46:57,700	873	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:47:29,635	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:47:29,644	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:47:30,517	882	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:48:06,368	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:48:06,377	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:48:07,181	813	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:49:12,590	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:49:12,600	10	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:49:13,460	870	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:49:49,395	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:49:49,403	8	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:49:50,358	963	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:50:06,997	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:50:07,009	12	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:50:07,914	917	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:53:53,611	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:53:53,622	11	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:55:00,529	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:55:00,540	11	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:56:00,472	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:56:00,482	10	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:56:01,452	980	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:56:13,762	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:56:13,771	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 09:56:14,614	852	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 09:56:51,649	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:56:51,658	9	tests.CreateNewDeck	[main]	Drawing 5.5 cards 
+INFO	2020-05-15 09:57:02,891	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:57:02,901	10	tests.CreateNewDeck	[main]	Drawing 5.5 cards 
+INFO	2020-05-15 09:57:53,523	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 09:57:53,532	9	tests.CreateNewDeck	[main]	Drawing 5.5 cards 
+INFO	2020-05-15 09:57:54,350	827	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 11:59:16,770	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 11:59:16,782	12	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:05:18,997	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:05:19,006	9	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:05:20,093	1096	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:05:20,475	1478	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:13:07,001	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:13:07,011	10	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:13:08,004	1003	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:13:08,380	1379	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:13:29,694	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:13:29,704	10	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:13:30,581	887	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:13:30,909	1215	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:14:03,787	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:14:03,795	8	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:14:04,681	894	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:14:05,020	1233	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:14:11,075	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:14:11,083	8	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:14:11,965	890	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:14:12,298	1223	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:14:28,171	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:14:28,180	9	tests.CreateNewDeck	[main]	Creating new Deck without joker
+INFO	2020-05-15 12:14:29,062	891	tests.CreateNewDeck	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 12:14:29,382	1211	tests.CreateNewDeck	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 12:18:45,245	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:18:45,255	10	tests.CreateNewDeck	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 12:21:37,071	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:21:37,080	9	tests.CreateNewDeck	[main]	Drawing 5 cards 
+INFO	2020-05-15 12:21:37,965	894	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 12:29:11,320	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:29:11,328	8	tests.CreateNewDeck	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 12:29:12,293	973	tests.CreateNewDeck	[main]	deserialization JSON to POJO class Draw :: 
+INFO	2020-05-15 12:29:39,027	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:29:39,036	9	tests.CreateNewDeck	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 12:32:38,159	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:33:24,372	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:34:37,357	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:36:11,809	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:36:53,685	1	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:39:18,684	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:39:18,695	11	tests.CreateNewDeck	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 12:40:28,107	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:48:32,169	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:48:32,242	73	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:51:29,465	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:51:29,529	64	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:52:27,659	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:52:27,725	66	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:56:37,516	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:56:37,584	68	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:58:01,125	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:58:01,184	59	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:58:22,462	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:58:22,524	62	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 12:58:35,588	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 12:58:35,648	60	tests.CreateNewDeck	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 13:01:16,117	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 13:01:37,204	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 14:51:35,367	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 14:51:35,369	2	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 14:51:36,918	1551	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 14:51:36,961	1594	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 14:51:37,017	1650	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 14:51:37,360	1993	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 14:51:37,376	2009	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 14:51:37,432	2065	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 14:51:37,499	2132	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 14:51:38,233	2866	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 15:03:23,751	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 15:03:23,761	10	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 15:03:25,180	1429	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 15:03:25,186	1435	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 15:03:25,274	1523	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 15:03:25,680	1929	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 15:06:03,439	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 15:06:03,449	10	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 15:06:04,762	1323	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 15:06:04,769	1330	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 15:06:04,862	1423	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 15:06:05,239	1800	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 15:06:15,331	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:06:15,332	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:06:16,582	1251	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:06:16,623	1292	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 15:06:16,690	1359	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:06:17,046	1715	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:06:17,057	1726	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 15:06:17,110	1779	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 15:06:17,175	1844	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 15:06:17,782	2451	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 15:31:34,210	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:31:34,211	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:31:34,266	56	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:31:34,267	57	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:31:34,267	57	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:32:04,284	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:32:04,285	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:32:04,336	52	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:32:04,337	53	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:32:04,338	54	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:32:40,664	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:32:40,665	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:32:40,721	57	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:32:40,722	58	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:32:40,723	59	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:33:09,554	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:33:09,555	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:33:09,612	58	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:33:09,613	59	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:33:09,613	59	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:33:50,110	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:33:50,111	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:33:50,169	59	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:33:50,170	60	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:33:50,171	61	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:34:02,085	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:34:02,085	0	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:34:02,145	60	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:34:02,146	61	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:34:02,146	61	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:41:00,651	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:41:00,654	3	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:41:03,039	2388	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:41:03,095	2444	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 15:41:03,208	2557	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:41:03,767	3116	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:41:03,786	3135	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 15:46:57,148	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:46:57,150	2	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:46:57,234	86	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:46:57,235	87	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:46:57,236	88	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:49:23,365	0	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:49:25,200	1835	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 15:50:04,029	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:50:04,030	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:50:04,106	77	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:50:04,107	78	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:50:04,107	78	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:51:39,190	0	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:51:41,219	2029	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 15:52:29,884	0	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:52:31,533	1649	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 15:58:09,651	0	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 15:58:09,652	1	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 15:58:11,860	2209	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 15:58:11,969	2318	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 15:58:12,082	2431	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 15:58:12,579	2928	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 15:58:12,594	2943	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 17:48:02,194	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:02,210	16	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 17:48:03,228	1034	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 17:48:12,596	1	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:12,666	71	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 17:48:21,832	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:21,900	68	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 17:48:30,611	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:30,620	9	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 17:48:31,485	874	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 17:48:31,843	1232	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 17:48:31,848	1237	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 17:48:40,870	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:40,915	45	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 17:48:40,915	45	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 17:48:42,226	1356	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 17:48:42,477	1607	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 17:48:42,598	1728	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 17:48:42,600	1730	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 17:48:42,609	1739	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 17:48:43,058	2188	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 17:48:43,633	2763	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 17:48:43,799	2929	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 17:48:44,580	3710	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 17:48:56,789	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:48:56,800	11	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 17:48:58,080	1291	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 17:48:58,087	1298	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 17:48:58,192	1403	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 17:48:58,534	1745	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 17:58:45,075	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:58:45,114	39	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 17:58:45,114	39	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 17:58:46,377	1302	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 17:58:46,480	1405	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 17:58:46,596	1521	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 17:58:46,599	1524	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 17:58:46,610	1535	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 17:58:46,801	1726	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 17:58:47,289	2214	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 17:58:47,441	2366	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 17:58:48,031	2956	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 17:59:02,229	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:59:02,238	9	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 17:59:03,157	928	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 17:59:33,804	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 17:59:33,813	9	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 17:59:34,694	890	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:01:41,439	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:01:41,457	18	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:01:42,834	1395	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:01:42,841	1402	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:01:42,967	1528	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:01:43,786	2347	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:05:11,168	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:05:11,201	33	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:05:11,201	33	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:05:12,264	1096	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:05:12,371	1203	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:05:12,535	1367	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:05:12,540	1372	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:05:12,552	1384	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:05:12,659	1491	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:05:12,736	1568	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:05:12,985	1817	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:05:12,986	1818	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:05:13,165	1997	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:05:13,167	1999	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:05:13,248	2080	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:05:13,519	2351	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:13:17,496	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:13:17,529	33	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:13:17,530	34	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:13:18,588	1092	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:13:18,685	1189	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:13:18,841	1345	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:13:18,845	1349	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:13:18,855	1359	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:13:19,032	1536	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:13:19,667	2171	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:13:19,778	2282	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:13:19,890	2394	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:13:19,919	2423	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:13:19,920	2424	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:13:20,085	2589	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:13:20,091	2595	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:13:20,185	2689	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:13:20,287	2791	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:14:10,892	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:14:10,932	40	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:14:10,932	40	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:14:12,148	1256	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:14:12,290	1398	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:14:12,430	1538	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:14:12,433	1541	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:14:12,442	1550	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:14:13,191	2299	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:14:13,695	2803	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:14:13,828	2936	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:14:13,972	3080	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:16:28,370	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:16:28,438	68	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:16:28,439	69	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:16:29,565	1195	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:16:29,683	1313	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:16:29,824	1454	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:16:29,828	1458	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:16:29,838	1468	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:16:30,018	1648	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:16:30,700	2330	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:16:30,993	2623	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:16:31,093	2723	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:16:31,120	2750	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:16:31,121	2751	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:16:31,292	2922	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:16:31,297	2927	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:16:31,474	3104	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:16:31,584	3214	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:29:17,473	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:29:17,505	32	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:29:17,505	32	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:29:18,564	1091	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:29:18,670	1197	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:29:18,835	1362	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:29:18,838	1365	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:29:18,850	1377	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:29:19,019	1546	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:29:19,658	2185	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:29:19,745	2272	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:29:19,819	2346	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:29:19,847	2374	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:29:19,848	2375	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:29:20,020	2547	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:29:20,025	2552	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:29:20,120	2647	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:29:20,252	2779	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:37:47,119	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:37:47,155	36	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:37:47,155	36	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:37:48,281	1162	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:37:48,377	1258	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:37:48,557	1438	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:37:48,562	1443	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:37:48,573	1454	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:37:48,752	1633	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:37:49,424	2305	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:37:49,521	2402	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:37:49,608	2489	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:37:49,634	2515	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:37:49,636	2517	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:37:49,793	2674	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:37:49,797	2678	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:37:49,881	2762	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:37:49,990	2871	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:42:06,571	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:42:06,605	34	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:42:06,606	35	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:42:07,712	1141	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:42:07,813	1242	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:42:08,009	1438	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:42:08,014	1443	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:42:08,025	1454	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:42:08,188	1617	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:42:08,881	2310	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:42:08,969	2398	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:42:09,070	2499	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:42:09,098	2527	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:42:09,099	2528	tests.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:42:09,259	2688	tests.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:42:09,266	2695	tests.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:42:09,356	2785	tests.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:42:09,451	2880	tests.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 18:42:23,741	1	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:42:23,779	39	tests.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:42:23,779	39	tests.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:42:24,976	1236	tests.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:42:25,317	1577	tests.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:42:25,432	1692	tests.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:42:25,436	1696	tests.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:42:25,446	1706	tests.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:42:25,631	1891	tests.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:42:26,142	2402	tests.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:42:26,237	2497	tests.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:42:26,412	2672	tests.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:46:00,472	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:46:00,546	74	Test.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:46:00,547	75	Test.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:46:01,961	1489	Test.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:46:02,335	1863	Test.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:46:02,450	1978	Test.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:46:02,453	1981	Test.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:46:02,462	1990	Test.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:46:02,670	2198	Test.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:46:03,178	2706	Test.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:46:03,282	2810	Test.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:46:03,406	2934	Test.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:47:58,995	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:47:59,030	35	Test.CreateNewDeckTest	[main]	:: Reading from new_deck.json file
+INFO	2020-05-15 18:47:59,030	35	Test.CreateNewDeckTest	[main]	 Serialization of JSON into POJO Deck Class 
+INFO	2020-05-15 18:48:00,256	1261	Test.CreateNewDeckTest	[main]	Creating new Deck without joker
+INFO	2020-05-15 18:48:00,607	1612	Test.CreateNewDeckTest	[main]	:: deserialize response into POJO CLASS
+INFO	2020-05-15 18:48:00,768	1773	Test.CreateNewDeckTest	[main]	:: Writing Body in new_deck.json file
+INFO	2020-05-15 18:48:00,772	1777	Test.CreateNewDeckTest	[main]	:: Verifying the file /new_deck.json is created 
+INFO	2020-05-15 18:48:00,779	1784	Test.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 18:48:01,200	2205	Test.CreateNewDeckTest	[main]	 :: Creating new deck with jokers
+INFO	2020-05-15 18:48:02,016	3021	Test.CreateNewDeckTest	[main]	 Creating more than 20 decks 
+INFO	2020-05-15 18:48:02,231	3236	Test.CreateNewDeckTest	[main]	 :: Creating new deck of cards
+INFO	2020-05-15 18:48:02,550	3555	Test.CreateNewDeckTest	[main]	 :: Verifying number of cards in the deck
+INFO	2020-05-15 18:48:02,583	3588	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 18:48:02,584	3589	Test.DrawCardsTest	[main]	:: Drawing 53 cards
+INFO	2020-05-15 18:48:02,951	3956	Test.DrawCardsTest	[main]	:: Validating response
+INFO	2020-05-15 18:48:02,955	3960	Test.DrawCardsTest	[main]	:: Drawing 5 cards
+INFO	2020-05-15 18:48:03,245	4250	Test.DrawCardsTest	[main]	:: Deserialize JSON into POJO
+INFO	2020-05-15 18:48:03,350	4355	Test.DrawCardsTest	[main]	:: Drawing 5.5 cards 
+INFO	2020-05-15 19:40:29,207	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 19:40:29,218	11	Test.CreateNewDeckTest	[main]	 :: Creating new deck with query param -5 
+INFO	2020-05-15 19:40:45,652	0	TestBase.BaseClass	[main]	BaseURI :: http://deckofcardsapi.com/api/deck
+INFO	2020-05-15 19:40:45,719	67	Test.CreateNewDeckTest	[main]	 Creating more than 20 decks 
